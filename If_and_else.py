@@ -18,4 +18,4 @@ match age:
     case 2:
         print("Age is 2")
     case _:     # Just like default case
-        print("Default case ")
+        print("Default case occur ")
